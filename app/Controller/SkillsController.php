@@ -1,7 +1,5 @@
 <?php
 
-Skills::uses('Controller', 'Controller');
-
 class SkillsController extends AppController {
   public $helpers = array('Html', 'Form');
 
