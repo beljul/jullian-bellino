@@ -32,7 +32,4 @@ App::uses('Controller', 'Controller');
  */
 class AppController extends Controller {
 
-  public function index() {
-
-  }
 }
