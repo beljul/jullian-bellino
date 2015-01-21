@@ -1,5 +1,4 @@
 <?php
-<?php
 /**
  *
  *
@@ -91,3 +90,4 @@ class DATABASE_CONFIG {
 		//'encoding' => 'utf8',
 	);
 }
+?>
