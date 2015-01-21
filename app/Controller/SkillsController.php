@@ -1,3 +1,5 @@
+<?php
+
 class SkillsController extends AppController {
   public $helpers = array('Html', 'Form');
 
@@ -5,3 +7,5 @@ class SkillsController extends AppController {
     $this->set('skills', $this->Skill->find('all'));
   }
 }
+
+?>
