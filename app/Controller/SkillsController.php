@@ -7,3 +7,5 @@ class SkillsController extends AppController {
     $this->set('skills', $this->Skill->find('all'));
   }
 }
+
+?>
